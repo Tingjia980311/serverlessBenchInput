@@ -1,0 +1,86 @@
+!<thin>
+//                                              554       `
+core.o/
+syscall.o/
+verifier.o/
+inode.o/
+helpers.o/
+tnum.o/
+log.o/
+bpf_iter.o/
+map_iter.o/
+task_iter.o/
+prog_iter.o/
+link_iter.o/
+hashtab.o/
+arraymap.o/
+percpu_freelist.o/
+bpf_lru_list.o/
+lpm_trie.o/
+map_in_map.o/
+bloom_filter.o/
+local_storage.o/
+queue_stack_maps.o/
+ringbuf.o/
+bpf_local_storage.o/
+bpf_task_storage.o/
+disasm.o/
+trampoline.o/
+btf.o/
+memalloc.o/
+dispatcher.o/
+devmap.o/
+cpumap.o/
+offload.o/
+net_namespace.o/
+stackmap.o/
+cgroup_iter.o/
+bpf_cgrp_storage.o/
+cgroup.o/
+reuseport_array.o/
+sysfs_btf.o/
+bpf_struct_ops.o/
+cpumask.o/
+relo_core.o/
+/0              0           0     0     644     1195608   `
+/8              0           0     0     644     1790336   `
+/19             0           0     0     644     2172360   `
+/31             0           0     0     644     582480    `
+/40             0           0     0     644     1121984   `
+/51             0           0     0     644     36520     `
+/59             0           0     0     644     498648    `
+/66             0           0     0     644     569056    `
+/78             0           0     0     644     474592    `
+/90             0           0     0     644     669760    `
+/103            0           0     0     644     462384    `
+/116            0           0     0     644     463824    `
+/129            0           0     0     644     1385912   `
+/140            0           0     0     644     676792    `
+/152            0           0     0     644     110608    `
+/171            0           0     0     644     147056    `
+/187            0           0     0     644     539016    `
+/199            0           0     0     644     336792    `
+/213            0           0     0     644     383136    `
+/229            0           0     0     644     572408    `
+/246            0           0     0     644     373392    `
+/266            0           0     0     644     582608    `
+/277            0           0     0     644     591912    `
+/298            0           0     0     644     502096    `
+/318            0           0     0     644     379328    `
+/328            0           0     0     644     708240    `
+/342            0           0     0     644     2049408   `
+/349            0           0     0     644     487280    `
+/361            0           0     0     644     470416    `
+/375            0           0     0     644     746272    `
+/385            0           0     0     644     688264    `
+/395            0           0     0     644     956088    `
+/406            0           0     0     644     561920    `
+/423            0           0     0     644     657536    `
+/435            0           0     0     644     388528    `
+/450            0           0     0     644     499568    `
+/470            0           0     0     644     969192    `
+/480            0           0     0     644     525504    `
+/499            0           0     0     644     154888    `
+/512            0           0     0     644     623296    `
+/530            0           0     0     644     440632    `
+/541            0           0     0     644     613960    `
